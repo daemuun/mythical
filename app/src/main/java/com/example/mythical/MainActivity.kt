@@ -86,7 +86,7 @@ fun CharacterCard(character: Character, modifier: Modifier = Modifier) {
             )
             CharacterInfo(
                 nameId = character.nameId,
-                descriptionId = character.descripteoinId,
+                descriptionId = character.descriptionId,
                 modifier = Modifier.padding(dimensionResource(R.dimen.padding_small))
             )
         }
