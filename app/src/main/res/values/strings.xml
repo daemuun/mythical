@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Mythical</string>
+
+    <string name="name1">Один</string>
+    <string name="description1">Главный бог, бог войны, побед, поэзии и мудрости. Владелец Вальгаллы.</string>
+
+    <string name="name2">Ве</string>
+    <string name="description2">Брат Одина, один из создателей мира людей. Помог оживить человечество.</string>
+
+    <string name="name3">Вили</string>
+    <string name="description3">Брат Одина и Ве, сын Бора. Дал людям движение и разум при создании.</string>
+
+    <string name="name4">Фригг</string>
+    <string name="description4">Супруга Одина, главная богиня. Покровительница семьи, брака и деторождения.</string>
+
+    <string name="name5">Бальдр</string>
+    <string name="description5">Бог света и весны, сын Одина и Фригг. Символ возрождающейся природы.</string>
+
+    <string name="name6">Тор</string>
+    <string name="description6">Бог грома, бури и дождя, защитник людей. Владелец молота Мьельнир.</string>
+
+    <string name="name7">Хеймдалль</string>
+    <string name="description7">Страж богов и мирового дерева. Охраняет мост между мирами.</string>
+
+    <string name="name8">Магни</string>
+    <string name="description8">Сын Тора, которому суждено унаследовать его молот после Рагнарека.</string>
+
+    <string name="name9">Тюр</string>
+    <string name="description9">Бог войны и чести, однорукий брат Тора. Пожертвовал руку, чтобы сковать волка Фенрира.</string>
+
+    <string name="name10">Локи</string>
+    <string name="description10">Бог обмана и хитрости, трикстер. Отец Хель, Фенрира и Ермунганда.</string>
+
+</resources>
