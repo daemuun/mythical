@@ -23,7 +23,7 @@ val Typography = Typography(
     ),
     titleMedium = TextStyle(
         fontFamily = NotoSans,
-        fontWeight = FontWeight.Medium,
+        fontWeight = FontWeight.Bold,
         fontSize = 16.sp,
         lineHeight = 24.sp
     )
